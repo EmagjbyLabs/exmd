@@ -1,0 +1,5 @@
+# Ignore OS generated files
+.DS_Store
+
+# Ignore developer notes and temporary files
+/temp 
