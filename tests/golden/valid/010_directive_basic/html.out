@@ -1,0 +1,3 @@
+<div data-directive="note" data-kind="info">
+  <p>Hello from note.</p>
+</div>

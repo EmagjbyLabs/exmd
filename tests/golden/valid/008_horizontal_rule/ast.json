@@ -1,0 +1,15 @@
+{
+  "type": "Document",
+  "metadata": null,
+  "children": [
+    {
+      "type": "Paragraph",
+      "children": [{ "type": "Text", "value": "Before" }]
+    },
+    { "type": "HorizontalRule" },
+    {
+      "type": "Paragraph",
+      "children": [{ "type": "Text", "value": "After" }]
+    }
+  ]
+}

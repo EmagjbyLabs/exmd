@@ -1,0 +1,9 @@
+{
+  "errors": [
+    {
+      "code": "E_CODE_BLOCK_UNCLOSED",
+      "message": "Fenced code block was not closed.",
+      "severity": "error"
+    }
+  ]
+}

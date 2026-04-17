@@ -1,0 +1,33 @@
+{
+  "type": "Document",
+  "metadata": null,
+  "children": [
+    {
+      "type": "DirectiveBlock",
+      "name": "section",
+      "attributes": {
+        "class": "hero"
+      },
+      "children": [
+        {
+          "type": "Heading",
+          "level": 1,
+          "children": [{ "type": "Text", "value": "Welcome" }]
+        },
+        {
+          "type": "DirectiveBlock",
+          "name": "note",
+          "attributes": {
+            "kind": "info"
+          },
+          "children": [
+            {
+              "type": "Paragraph",
+              "children": [{ "type": "Text", "value": "Nested content." }]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

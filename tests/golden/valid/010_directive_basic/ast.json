@@ -1,0 +1,21 @@
+{
+  "type": "Document",
+  "metadata": null,
+  "children": [
+    {
+      "type": "DirectiveBlock",
+      "name": "note",
+      "attributes": {
+        "kind": "info"
+      },
+      "children": [
+        {
+          "type": "Paragraph",
+          "children": [
+            { "type": "Text", "value": "Hello from note." }
+          ]
+        }
+      ]
+    }
+  ]
+}

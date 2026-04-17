@@ -1,0 +1,17 @@
+{
+  "type": "Document",
+  "metadata": null,
+  "children": [
+    {
+      "type": "Blockquote",
+      "children": [
+        {
+          "type": "Paragraph",
+          "children": [
+            { "type": "Text", "value": "quoted text still quoted" }
+          ]
+        }
+      ]
+    }
+  ]
+}

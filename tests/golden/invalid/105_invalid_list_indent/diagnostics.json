@@ -1,0 +1,9 @@
+{
+  "errors": [
+    {
+      "code": "E_LIST_INVALID_INDENT",
+      "message": "Nested list indentation must use exactly 2 spaces.",
+      "severity": "error"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "type": "Document",
+  "metadata": null,
+  "children": [
+    {
+      "type": "Paragraph",
+      "children": [
+        { "type": "Text", "value": "Use " },
+        { "type": "CodeSpan", "value": "cargo test" },
+        { "type": "Text", "value": " and read " },
+        {
+          "type": "Link",
+          "href": "https://example.com/docs",
+          "children": [
+            { "type": "Text", "value": "the docs" }
+          ]
+        },
+        { "type": "Text", "value": "." }
+      ]
+    }
+  ]
+}

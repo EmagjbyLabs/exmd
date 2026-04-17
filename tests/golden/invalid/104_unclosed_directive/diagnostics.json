@@ -1,0 +1,9 @@
+{
+  "errors": [
+    {
+      "code": "E_DIRECTIVE_UNCLOSED",
+      "message": "Directive block 'note' was not closed.",
+      "severity": "error"
+    }
+  ]
+}

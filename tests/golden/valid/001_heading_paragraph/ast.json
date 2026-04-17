@@ -1,0 +1,19 @@
+{
+  "type": "Document",
+  "metadata": null,
+  "children": [
+    {
+      "type": "Heading",
+      "level": 1,
+      "children": [
+        { "type": "Text", "value": "Hello" }
+      ]
+    },
+    {
+      "type": "Paragraph",
+      "children": [
+        { "type": "Text", "value": "This is a paragraph." }
+      ]
+    }
+  ]
+}

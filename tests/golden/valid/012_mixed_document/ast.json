@@ -1,0 +1,85 @@
+{
+  "type": "Document",
+  "metadata": {
+    "title": "Mixed"
+  },
+  "children": [
+    {
+      "type": "Heading",
+      "level": 1,
+      "children": [{ "type": "Text", "value": "Intro" }]
+    },
+    {
+      "type": "Paragraph",
+      "children": [
+        { "type": "Text", "value": "This is " },
+        {
+          "type": "Emphasis",
+          "children": [{ "type": "Text", "value": "exmd" }]
+        },
+        { "type": "Text", "value": " with " },
+        {
+          "type": "Strong",
+          "children": [{ "type": "Text", "value": "structure" }]
+        },
+        { "type": "Text", "value": "." }
+      ]
+    },
+    {
+      "type": "List",
+      "ordered": false,
+      "items": [
+        {
+          "type": "ListItem",
+          "children": [
+            {
+              "type": "Paragraph",
+              "children": [{ "type": "Text", "value": "one" }]
+            }
+          ]
+        },
+        {
+          "type": "ListItem",
+          "children": [
+            {
+              "type": "Paragraph",
+              "children": [{ "type": "Text", "value": "two" }]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "Blockquote",
+      "children": [
+        {
+          "type": "Paragraph",
+          "children": [{ "type": "Text", "value": "careful now" }]
+        }
+      ]
+    },
+    {
+      "type": "DirectiveBlock",
+      "name": "note",
+      "attributes": {
+        "kind": "warning"
+      },
+      "children": [
+        {
+          "type": "Paragraph",
+          "children": [
+            { "type": "Text", "value": "Use " },
+            { "type": "CodeSpan", "value": "strict mode" },
+            { "type": "Text", "value": "." }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "CodeBlock",
+      "fence": "```",
+      "info": "txt",
+      "value": "done"
+    }
+  ]
+}

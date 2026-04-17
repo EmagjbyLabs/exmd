@@ -1,0 +1,9 @@
+{
+  "errors": [
+    {
+      "code": "E_RAW_HTML_DISABLED",
+      "message": "Raw HTML is disabled by default.",
+      "severity": "error"
+    }
+  ]
+}

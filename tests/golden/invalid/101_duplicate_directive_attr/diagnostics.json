@@ -1,0 +1,9 @@
+{
+  "errors": [
+    {
+      "code": "E_DIRECTIVE_DUPLICATE_ATTRIBUTE",
+      "message": "Duplicate directive attribute 'kind'.",
+      "severity": "error"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "errors": [
+    {
+      "code": "E_LINK_MALFORMED",
+      "message": "Malformed inline link syntax.",
+      "severity": "error"
+    }
+  ]
+}

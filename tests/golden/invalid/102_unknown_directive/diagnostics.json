@@ -1,0 +1,9 @@
+{
+  "errors": [
+    {
+      "code": "E_UNKNOWN_DIRECTIVE",
+      "message": "Unknown directive 'wizard'.",
+      "severity": "error"
+    }
+  ]
+}

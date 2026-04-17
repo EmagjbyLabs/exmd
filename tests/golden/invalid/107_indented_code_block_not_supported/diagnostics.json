@@ -1,0 +1,9 @@
+{
+  "errors": [
+    {
+      "code": "E_UNSUPPORTED_BLOCK_SYNTAX",
+      "message": "Indented code blocks are not supported in exmd v0.1.",
+      "severity": "error"
+    }
+  ]
+}

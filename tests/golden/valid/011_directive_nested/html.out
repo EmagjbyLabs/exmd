@@ -1,0 +1,6 @@
+<section class="hero">
+  <h1>Welcome</h1>
+  <div data-directive="note" data-kind="info">
+    <p>Nested content.</p>
+  </div>
+</section>

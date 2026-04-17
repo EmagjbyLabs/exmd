@@ -1,0 +1,13 @@
+<h1>Intro</h1>
+<p>This is <em>exmd</em> with <strong>structure</strong>.</p>
+<ul>
+  <li><p>one</p></li>
+  <li><p>two</p></li>
+</ul>
+<blockquote>
+  <p>careful now</p>
+</blockquote>
+<div data-directive="note" data-kind="warning">
+  <p>Use <code>strict mode</code>.</p>
+</div>
+<pre><code class="language-txt">done</code></pre>

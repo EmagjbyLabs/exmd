@@ -1,0 +1,9 @@
+{
+  "errors": [
+    {
+      "code": "E_FRONTMATTER_INVALID_JSON",
+      "message": "Frontmatter is not valid JSON.",
+      "severity": "error"
+    }
+  ]
+}

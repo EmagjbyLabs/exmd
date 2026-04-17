@@ -1,0 +1,9 @@
+{
+  "errors": [
+    {
+      "code": "E_UNSUPPORTED_INLINE_SYNTAX",
+      "message": "Underscore emphasis is not supported in exmd v0.1.",
+      "severity": "error"
+    }
+  ]
+}

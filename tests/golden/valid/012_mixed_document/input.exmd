@@ -1,0 +1,22 @@
+---
+{
+  "title": "Mixed"
+}
+---
+
+# Intro
+
+This is *exmd* with **structure**.
+
+- one
+- two
+
+> careful now
+
+::note{kind="warning"}
+Use `strict mode`.
+::
+
+```txt
+done
+```
